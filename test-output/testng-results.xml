@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15663" started-at="2022-09-16T14:43:09Z" finished-at="2022-09-16T14:43:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15663" started-at="2022-09-16T14:43:09Z" finished-at="2022-09-16T14:43:25Z">
+      <class name="com.omrbranch.OMRBranchLoginPage">
+        <test-method status="PASS" signature="login()[pri:1, instance:com.omrbranch.OMRBranchLoginPage@4b9e13df]" name="login" duration-ms="7368" started-at="2022-09-16T14:43:10Z" finished-at="2022-09-16T14:43:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="addUserAddress()[pri:2, instance:com.omrbranch.OMRBranchLoginPage@4b9e13df]" name="addUserAddress" duration-ms="849" started-at="2022-09-16T14:43:17Z" finished-at="2022-09-16T14:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUserAddress -->
+        <test-method status="PASS" signature="updateUserAddress()[pri:3, instance:com.omrbranch.OMRBranchLoginPage@4b9e13df]" name="updateUserAddress" duration-ms="577" started-at="2022-09-16T14:43:18Z" finished-at="2022-09-16T14:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserAddress -->
+        <test-method status="PASS" signature="deleteUserAddress()[pri:4, instance:com.omrbranch.OMRBranchLoginPage@4b9e13df]" name="deleteUserAddress" duration-ms="530" started-at="2022-09-16T14:43:18Z" finished-at="2022-09-16T14:43:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserAddress -->
+        <test-method status="PASS" signature="getUserAddresses()[pri:5, instance:com.omrbranch.OMRBranchLoginPage@4b9e13df]" name="getUserAddresses" duration-ms="1173" started-at="2022-09-16T14:43:19Z" finished-at="2022-09-16T14:43:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserAddresses -->
+        <test-method status="PASS" signature="changeProfilePic()[pri:6, instance:com.omrbranch.OMRBranchLoginPage@4b9e13df]" name="changeProfilePic" duration-ms="5005" started-at="2022-09-16T14:43:20Z" finished-at="2022-09-16T14:43:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeProfilePic -->
+      </class> <!-- com.omrbranch.OMRBranchLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
